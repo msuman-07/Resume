@@ -1,4 +1,4 @@
-# 📄 Suman M. — Resume
+# 📄 Suman M — Resume
 
 <p align="center">
   <strong>AI & Data Science Graduate | Artificial Intelligence | Machine Learning | Generative AI</strong>
